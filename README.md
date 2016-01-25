@@ -7,6 +7,12 @@
 
 ## Usage
 
+CDBCheckboxView * view = [CDBCheckboxView checkboxViewWithText:@"check me"
+                                                       checked:YES
+                                                  onUserChange:^(BOOL checked) {
+    NSLog(@"Checkbox changed state to %@", checked ? @"checked" : @"unchecked");
+}];
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements

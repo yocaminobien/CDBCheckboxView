@@ -1,0 +1,14 @@
+PODS:
+  - CDBCheckboxView (0.0.1)
+
+DEPENDENCIES:
+  - CDBCheckboxView (from `../`)
+
+EXTERNAL SOURCES:
+  CDBCheckboxView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CDBCheckboxView: 52934d1e6d07b8b84d480699d53330ac9676b86a
+
+COCOAPODS: 0.38.2

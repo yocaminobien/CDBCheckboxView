@@ -8,5 +8,5 @@ end
 target 'CDBCheckboxView_Tests', :exclusive => true do
   pod "CDBCheckboxView", :path => "../"
 
-  pod 'FBSnapshotTestCase'
+  #pod 'FBSnapshotTestCase'
 end

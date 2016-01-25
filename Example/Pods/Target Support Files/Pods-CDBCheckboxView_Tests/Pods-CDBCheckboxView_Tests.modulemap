@@ -1,0 +1,6 @@
+framework module Pods_CDBCheckboxView_Tests {
+  umbrella header "Pods-CDBCheckboxView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

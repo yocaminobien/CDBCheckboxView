@@ -1,0 +1,6 @@
+framework module CDBCheckboxView {
+  umbrella header "CDBCheckboxView-umbrella.h"
+
+  export *
+  module * { export * }
+}
