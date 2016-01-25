@@ -7,113 +7,113 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		049A2AA4F977790C1B5E69DB2AB7B054 /* checkbox-dark-off@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F0FC434B0C200C5577183214363EAB0 /* checkbox-dark-off@3x.png */; };
+		025A7300F53DFF12D4EB2C3CD38815DD /* CDBCheckboxView.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC0588CD994220A91745F1993997D826 /* CDBCheckboxView.xib */; };
 		2152631F1E5D7BCE2567B167C05D6604 /* Pods-CDBCheckboxView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EC65D503FC3F8519E7E9CF52BDB0CD5B /* Pods-CDBCheckboxView_Example-dummy.m */; };
-		35283E093A5220A70E267D5CAA242B4B /* CDBCheckboxView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD8FD2EDC1B1B55B05865CF3C58B7B1 /* CDBCheckboxView-dummy.m */; };
 		3BD3AC0CCF22F08EE47D6AAA9FE77C2B /* Pods-CDBCheckboxView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 905CB7FD1EE12FBC4083D14B6D4675FD /* Pods-CDBCheckboxView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D3DBA0F3326481A6B7CAA85FC400610 /* CDBCheckboxView.m in Sources */ = {isa = PBXBuildFile; fileRef = 40C6133CBF3BFC70BDAC6B5DCAB867A3 /* CDBCheckboxView.m */; };
 		43CD9E8DD21D04ED1C5FA9564C74D262 /* Pods-CDBCheckboxView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 99DDAFC6E175598228BBABA62C0A483E /* Pods-CDBCheckboxView_Tests-dummy.m */; };
-		5F05736AA4C59CAD7A99DF2C917CF2AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1C8E1B99B3BD24C776F390D602ADD2B /* Foundation.framework */; };
-		683E8CF628441AFB72517B9755AB22E1 /* CDBCheckboxView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 86D46C818A5FF56DC299EB378B14733E /* CDBCheckboxView.xib */; };
-		766338CC8F84B08B55523EDAD5083255 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1C8E1B99B3BD24C776F390D602ADD2B /* Foundation.framework */; };
-		80FAF8FE088040AEDCCAC64CEA2B7CA0 /* CDBCheckboxView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D1007FA574F5E354BB58323A6028258 /* CDBCheckboxView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8A20C449F977E2F9AEEADC0522610F58 /* checkbox-dark-off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A06FED32F19433B150FEFBFFC04EB28A /* checkbox-dark-off@2x.png */; };
-		8B0D2FEA5F693D5AD41659A8F1B837E5 /* checkbox-dark-off@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2591EE2FA221972451467DA54CF77E8D /* checkbox-dark-off@1x.png */; };
-		8C3AE96AF69E4B1099841452023B5A26 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954127F3E96A3879966ECE3130CF7F59 /* UIKit.framework */; };
+		4D152F0CD93CF0F2E74786C6F8E98F92 /* checkbox-dark-on@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = D88FA67D48F3E42A9E4E47E66B5A74DF /* checkbox-dark-on@1x.png */; };
+		5165B72A708FDFBF94473A6981881931 /* CDBCheckboxView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 97FDFF78DC53342E2DDD274E7FE16891 /* CDBCheckboxView.bundle */; };
+		57D38178467D0C4C886DE659921939F8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0F4FF9827BDB3406281CD7B50C9C006 /* UIKit.framework */; };
+		5F05736AA4C59CAD7A99DF2C917CF2AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B06C7DC8F69878AE17CDD1C9FE8C892 /* Foundation.framework */; };
+		6B90F1D959799EAD7EA47045378D24E4 /* CDBCheckboxView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7934CC6D1EF420D7D24BBC88B1B305FF /* CDBCheckboxView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B55631C708C29ECA3431006BADB34BA /* CDBCheckboxView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9373745AF21ABB3711526B780E0216BD /* CDBCheckboxView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9BA9310FB1199725FAA316EB285800EC /* Pods-CDBCheckboxView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D68F2C9B0022FAF64F8EA76355B2CE89 /* Pods-CDBCheckboxView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A3724B61996C3D2369E0EB5D6FF4EDA4 /* checkbox-dark-on@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CCD9F601056FCFF6E65CAAD1C7B00E4F /* checkbox-dark-on@3x.png */; };
-		AA462B476C5391A3FBF52B44E0E479DB /* checkbox-dark-on@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F405C583147EFE141A62D5F3BE90A77 /* checkbox-dark-on@1x.png */; };
-		AEEA8FB2A748F3A2B9A2B5EE1F8FA982 /* checkbox-dark-on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DBBD5CB60EEEE62805884537DE95692 /* checkbox-dark-on@2x.png */; };
-		B8D8C4A3E847AF453E8E7985C7CF4A9A /* CDBCheckboxView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 429811E8B443335CD81588F6245BAA3B /* CDBCheckboxView.bundle */; };
-		D16FCA02E4A3B8FCB8907CB781D8043F /* CDBCheckboxView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A9AFCD5129BACE388DAD0C2EB8DF6425 /* CDBCheckboxView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D6464938E765A73CDEBA520A9506D2F3 /* CDBCheckboxView.m in Sources */ = {isa = PBXBuildFile; fileRef = B45B33F1F772541BDC0E9BF97467C699 /* CDBCheckboxView.m */; };
-		E0314CAD03BE73696DDE8AAB187482E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1C8E1B99B3BD24C776F390D602ADD2B /* Foundation.framework */; };
+		BB2EF367324C0CEE106BC326CD70E5A9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B06C7DC8F69878AE17CDD1C9FE8C892 /* Foundation.framework */; };
+		BB31A6BB90DA5922C62650975ED53612 /* checkbox-dark-off@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = D23E1E184C0E2B542F5B2213DDBC9F00 /* checkbox-dark-off@1x.png */; };
+		C55D97409BC165D418BF76213C780088 /* CDBCheckboxView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EBB555B921E2E227FA020673B39A29F6 /* CDBCheckboxView-dummy.m */; };
+		D8C6A78E22BBCF7294185D3E0D835FC7 /* checkbox-dark-on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 47A065168C3DC0E5C1C270887F6B8C57 /* checkbox-dark-on@2x.png */; };
+		D98BCB65512CA374F45765F8061C5876 /* checkbox-dark-on@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B616C4CEE1093BDD1E0BCB9EC3DC20D /* checkbox-dark-on@3x.png */; };
+		E0314CAD03BE73696DDE8AAB187482E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B06C7DC8F69878AE17CDD1C9FE8C892 /* Foundation.framework */; };
+		E234605E9E53143BF0C535099DD9FA19 /* checkbox-dark-off@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F7FF0A682765CBC9B54F2F25950C54B /* checkbox-dark-off@3x.png */; };
+		FF7AB687CAB6840924AA3FCF9E146177 /* checkbox-dark-off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA4DE8E5F02F75A38292591C301D22E /* checkbox-dark-off@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		75220096403BEE8E1403D418E704F614 /* PBXContainerItemProxy */ = {
+		47FCC2DD33E80ECADFB48A245AAC12F5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EA7EBA6ECCAA5F5C9B958BC58C51E40A;
-			remoteInfo = CDBCheckboxView;
-		};
-		8E9CE6B4DAC3914A38F59CF088CE04C3 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2475BD91A2032E9A9F330A3E9F7A9EFE;
+			remoteGlobalIDString = EA55CB1B1DE42F02C583CF4835C022A6;
 			remoteInfo = "CDBCheckboxView-CDBCheckboxView";
 		};
-		CACBA6F72FFBA56B2EC85F8CEE0F83E7 /* PBXContainerItemProxy */ = {
+		883DD6345AA0EFF7FBCAC1E4BB98BEEA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EA7EBA6ECCAA5F5C9B958BC58C51E40A;
+			remoteGlobalIDString = 33E5007876F633174F2FAE7055F6579D;
+			remoteInfo = CDBCheckboxView;
+		};
+		D94B441FB552EB0AC79BF54C68773E90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 33E5007876F633174F2FAE7055F6579D;
 			remoteInfo = CDBCheckboxView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0520EECEBAD6E1A59C3535EF3EFEDD80 /* CDBCheckboxView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CDBCheckboxView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F7FF0A682765CBC9B54F2F25950C54B /* checkbox-dark-off@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@3x.png"; sourceTree = "<group>"; };
+		17067F1E23F1C425F4F146E98FDFCAFA /* CDBCheckboxView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CDBCheckboxView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		17C24AA0A121F524D87CFB8F766A10B4 /* Pods-CDBCheckboxView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CDBCheckboxView_Example-resources.sh"; sourceTree = "<group>"; };
 		1CFE0522C880FB85FD3E7CA22B3DBCB2 /* Pods-CDBCheckboxView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CDBCheckboxView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1DBBD5CB60EEEE62805884537DE95692 /* checkbox-dark-on@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@2x.png"; sourceTree = "<group>"; };
-		1F405C583147EFE141A62D5F3BE90A77 /* checkbox-dark-on@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@1x.png"; sourceTree = "<group>"; };
 		211943427588FF623B4AADB90D58CFC5 /* Pods_CDBCheckboxView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CDBCheckboxView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2591EE2FA221972451467DA54CF77E8D /* checkbox-dark-off@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@1x.png"; sourceTree = "<group>"; };
+		2B06C7DC8F69878AE17CDD1C9FE8C892 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		2E0D284B8DB7F3FCE82DCFC5B7009EEF /* CDBCheckboxView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CDBCheckboxView-prefix.pch"; sourceTree = "<group>"; };
 		3B1978F0055EFC84610C068F168B489E /* Pods-CDBCheckboxView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDBCheckboxView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3F5787F265218B175554811389D766A3 /* Pods-CDBCheckboxView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-CDBCheckboxView_Tests.modulemap"; sourceTree = "<group>"; };
+		40C6133CBF3BFC70BDAC6B5DCAB867A3 /* CDBCheckboxView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CDBCheckboxView.m; sourceTree = "<group>"; };
 		41AF19C2B3471FDF7072AC4562D2DA54 /* Pods_CDBCheckboxView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CDBCheckboxView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		429811E8B443335CD81588F6245BAA3B /* CDBCheckboxView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CDBCheckboxView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C7EF438C11FED150DFDFB088F11EC6 /* Pods-CDBCheckboxView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-CDBCheckboxView_Example.modulemap"; sourceTree = "<group>"; };
-		4BD8FD2EDC1B1B55B05865CF3C58B7B1 /* CDBCheckboxView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CDBCheckboxView-dummy.m"; sourceTree = "<group>"; };
+		47A065168C3DC0E5C1C270887F6B8C57 /* checkbox-dark-on@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@2x.png"; sourceTree = "<group>"; };
+		4B616C4CEE1093BDD1E0BCB9EC3DC20D /* checkbox-dark-on@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@3x.png"; sourceTree = "<group>"; };
+		4BA4DE8E5F02F75A38292591C301D22E /* checkbox-dark-off@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@2x.png"; sourceTree = "<group>"; };
 		5E51CFAD4469F91A4ED74A1DAD9DD178 /* Pods-CDBCheckboxView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CDBCheckboxView_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		6D1007FA574F5E354BB58323A6028258 /* CDBCheckboxView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CDBCheckboxView.h; sourceTree = "<group>"; };
 		76BFAA3C229B7188EC2B60836EE75AA9 /* Pods-CDBCheckboxView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDBCheckboxView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		7934CC6D1EF420D7D24BBC88B1B305FF /* CDBCheckboxView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CDBCheckboxView.h; sourceTree = "<group>"; };
 		7EC9A31661B4A9A47AFF70BA57848BF0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7F0FC434B0C200C5577183214363EAB0 /* checkbox-dark-off@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@3x.png"; sourceTree = "<group>"; };
-		86D46C818A5FF56DC299EB378B14733E /* CDBCheckboxView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = CDBCheckboxView.xib; sourceTree = "<group>"; };
 		8AE34D375A87B799B5D067545963E8D3 /* Pods-CDBCheckboxView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CDBCheckboxView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8EEC647AA8F99668C133BEC850EDC813 /* Pods-CDBCheckboxView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CDBCheckboxView_Tests-resources.sh"; sourceTree = "<group>"; };
 		905CB7FD1EE12FBC4083D14B6D4675FD /* Pods-CDBCheckboxView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CDBCheckboxView_Example-umbrella.h"; sourceTree = "<group>"; };
-		90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "CDBCheckboxView-Private.xcconfig"; sourceTree = "<group>"; };
-		954127F3E96A3879966ECE3130CF7F59 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		9373745AF21ABB3711526B780E0216BD /* CDBCheckboxView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CDBCheckboxView-umbrella.h"; sourceTree = "<group>"; };
+		97FDFF78DC53342E2DDD274E7FE16891 /* CDBCheckboxView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CDBCheckboxView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		99DDAFC6E175598228BBABA62C0A483E /* Pods-CDBCheckboxView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CDBCheckboxView_Tests-dummy.m"; sourceTree = "<group>"; };
 		9C2F299B30EF2D4257AB33A0BB4D1325 /* Pods-CDBCheckboxView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDBCheckboxView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9FF6DD017A401DEFB21627DD2C794B9D /* Pods-CDBCheckboxView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CDBCheckboxView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A06FED32F19433B150FEFBFFC04EB28A /* checkbox-dark-off@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@2x.png"; sourceTree = "<group>"; };
 		A3A7E39EECBA903A9A8D7062F347F3AF /* CDBCheckboxView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CDBCheckboxView.xcconfig; sourceTree = "<group>"; };
-		A9AFCD5129BACE388DAD0C2EB8DF6425 /* CDBCheckboxView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CDBCheckboxView-umbrella.h"; sourceTree = "<group>"; };
 		AA73199303E05D87B057833AC8285D0A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B45B33F1F772541BDC0E9BF97467C699 /* CDBCheckboxView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CDBCheckboxView.m; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C1C8E1B99B3BD24C776F390D602ADD2B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		C0F4FF9827BDB3406281CD7B50C9C006 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		CBF9D09799539832C72DD977FD81DCEE /* Pods-CDBCheckboxView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CDBCheckboxView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		CCD9F601056FCFF6E65CAAD1C7B00E4F /* checkbox-dark-on@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@3x.png"; sourceTree = "<group>"; };
+		D23E1E184C0E2B542F5B2213DDBC9F00 /* checkbox-dark-off@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-off@1x.png"; sourceTree = "<group>"; };
 		D68F2C9B0022FAF64F8EA76355B2CE89 /* Pods-CDBCheckboxView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CDBCheckboxView_Tests-umbrella.h"; sourceTree = "<group>"; };
+		D88FA67D48F3E42A9E4E47E66B5A74DF /* checkbox-dark-on@1x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "checkbox-dark-on@1x.png"; sourceTree = "<group>"; };
 		DDA23B6D2B71DD94932B900DF44DE159 /* Pods-CDBCheckboxView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CDBCheckboxView_Example-frameworks.sh"; sourceTree = "<group>"; };
+		E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "CDBCheckboxView-Private.xcconfig"; sourceTree = "<group>"; };
 		EB77ED9D9FB45B2FD321968000255DA2 /* Pods-CDBCheckboxView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CDBCheckboxView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		EBB555B921E2E227FA020673B39A29F6 /* CDBCheckboxView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CDBCheckboxView-dummy.m"; sourceTree = "<group>"; };
 		EC65D503FC3F8519E7E9CF52BDB0CD5B /* Pods-CDBCheckboxView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CDBCheckboxView_Example-dummy.m"; sourceTree = "<group>"; };
 		ED69EA68AA7C642553A9E092360FF526 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1B256D89D62B37A681DF038A34AC9F7 /* CDBCheckboxView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = CDBCheckboxView.modulemap; sourceTree = "<group>"; };
+		FC0588CD994220A91745F1993997D826 /* CDBCheckboxView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = CDBCheckboxView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		048FDB9D00D5AE0A6AC37F1013976C3F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				766338CC8F84B08B55523EDAD5083255 /* Foundation.framework in Frameworks */,
-				8C3AE96AF69E4B1099841452023B5A26 /* UIKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5DBE166561D55A37169C904159E22AA3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				E0314CAD03BE73696DDE8AAB187482E0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7704C75C3DB01648066E7D093C71B253 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB2EF367324C0CEE106BC326CD70E5A9 /* Foundation.framework in Frameworks */,
+				57D38178467D0C4C886DE659921939F8 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,7 +125,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DC668E619591603D99B50B661EDE19DB /* Frameworks */ = {
+		AAB37737E33CBB6D2C4B7527E5D83293 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -148,10 +148,10 @@
 			children = (
 				F1B256D89D62B37A681DF038A34AC9F7 /* CDBCheckboxView.modulemap */,
 				A3A7E39EECBA903A9A8D7062F347F3AF /* CDBCheckboxView.xcconfig */,
-				90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */,
-				4BD8FD2EDC1B1B55B05865CF3C58B7B1 /* CDBCheckboxView-dummy.m */,
+				E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */,
+				EBB555B921E2E227FA020673B39A29F6 /* CDBCheckboxView-dummy.m */,
 				2E0D284B8DB7F3FCE82DCFC5B7009EEF /* CDBCheckboxView-prefix.pch */,
-				A9AFCD5129BACE388DAD0C2EB8DF6425 /* CDBCheckboxView-umbrella.h */,
+				9373745AF21ABB3711526B780E0216BD /* CDBCheckboxView-umbrella.h */,
 				ED69EA68AA7C642553A9E092360FF526 /* Info.plist */,
 			);
 			name = "Support Files";
@@ -180,8 +180,8 @@
 		51645C9F53629E41D84F2C511E87B6AE /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				6D1007FA574F5E354BB58323A6028258 /* CDBCheckboxView.h */,
-				B45B33F1F772541BDC0E9BF97467C699 /* CDBCheckboxView.m */,
+				7934CC6D1EF420D7D24BBC88B1B305FF /* CDBCheckboxView.h */,
+				40C6133CBF3BFC70BDAC6B5DCAB867A3 /* CDBCheckboxView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -253,8 +253,8 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				429811E8B443335CD81588F6245BAA3B /* CDBCheckboxView.bundle */,
-				0520EECEBAD6E1A59C3535EF3EFEDD80 /* CDBCheckboxView.framework */,
+				97FDFF78DC53342E2DDD274E7FE16891 /* CDBCheckboxView.bundle */,
+				17067F1E23F1C425F4F146E98FDFCAFA /* CDBCheckboxView.framework */,
 				41AF19C2B3471FDF7072AC4562D2DA54 /* Pods_CDBCheckboxView_Example.framework */,
 				211943427588FF623B4AADB90D58CFC5 /* Pods_CDBCheckboxView_Tests.framework */,
 			);
@@ -264,13 +264,13 @@
 		CE31C4DAA882644C66C45490D52FBDE7 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				86D46C818A5FF56DC299EB378B14733E /* CDBCheckboxView.xib */,
-				2591EE2FA221972451467DA54CF77E8D /* checkbox-dark-off@1x.png */,
-				A06FED32F19433B150FEFBFFC04EB28A /* checkbox-dark-off@2x.png */,
-				7F0FC434B0C200C5577183214363EAB0 /* checkbox-dark-off@3x.png */,
-				1F405C583147EFE141A62D5F3BE90A77 /* checkbox-dark-on@1x.png */,
-				1DBBD5CB60EEEE62805884537DE95692 /* checkbox-dark-on@2x.png */,
-				CCD9F601056FCFF6E65CAAD1C7B00E4F /* checkbox-dark-on@3x.png */,
+				FC0588CD994220A91745F1993997D826 /* CDBCheckboxView.xib */,
+				D23E1E184C0E2B542F5B2213DDBC9F00 /* checkbox-dark-off@1x.png */,
+				4BA4DE8E5F02F75A38292591C301D22E /* checkbox-dark-off@2x.png */,
+				0F7FF0A682765CBC9B54F2F25950C54B /* checkbox-dark-off@3x.png */,
+				D88FA67D48F3E42A9E4E47E66B5A74DF /* checkbox-dark-on@1x.png */,
+				47A065168C3DC0E5C1C270887F6B8C57 /* checkbox-dark-on@2x.png */,
+				4B616C4CEE1093BDD1E0BCB9EC3DC20D /* checkbox-dark-on@3x.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -278,8 +278,8 @@
 		D0FB9306D21AF23A056944AE037CBFFF /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				C1C8E1B99B3BD24C776F390D602ADD2B /* Foundation.framework */,
-				954127F3E96A3879966ECE3130CF7F59 /* UIKit.framework */,
+				2B06C7DC8F69878AE17CDD1C9FE8C892 /* Foundation.framework */,
+				C0F4FF9827BDB3406281CD7B50C9C006 /* UIKit.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -303,12 +303,12 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		2859C8A7A0183A94642E2A7CF001ECFF /* Headers */ = {
+		2EB37721F944F9EB32549137257EB77F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D16FCA02E4A3B8FCB8907CB781D8043F /* CDBCheckboxView-umbrella.h in Headers */,
-				80FAF8FE088040AEDCCAC64CEA2B7CA0 /* CDBCheckboxView.h in Headers */,
+				8B55631C708C29ECA3431006BADB34BA /* CDBCheckboxView-umbrella.h in Headers */,
+				6B90F1D959799EAD7EA47045378D24E4 /* CDBCheckboxView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,22 +331,24 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		2475BD91A2032E9A9F330A3E9F7A9EFE /* CDBCheckboxView-CDBCheckboxView */ = {
+		33E5007876F633174F2FAE7055F6579D /* CDBCheckboxView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6E98E222F855366CE2BE221908788394 /* Build configuration list for PBXNativeTarget "CDBCheckboxView-CDBCheckboxView" */;
+			buildConfigurationList = 8E640A21F0325EE1CFDEFF81AA590BA6 /* Build configuration list for PBXNativeTarget "CDBCheckboxView" */;
 			buildPhases = (
-				078BE40CE929488FC5D7D7BED48DC6FE /* Sources */,
-				DC668E619591603D99B50B661EDE19DB /* Frameworks */,
-				563D8F1959AF69D6E095DCE3B00FB163 /* Resources */,
+				50EF753AB96B7D16E6C1081CD0E0B564 /* Sources */,
+				7704C75C3DB01648066E7D093C71B253 /* Frameworks */,
+				B1A924C6DD99C39D7F5E8694987CCEFE /* Resources */,
+				2EB37721F944F9EB32549137257EB77F /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				E04731DA4578B747AC402F1ACC04AD4E /* PBXTargetDependency */,
 			);
-			name = "CDBCheckboxView-CDBCheckboxView";
-			productName = "CDBCheckboxView-CDBCheckboxView";
-			productReference = 429811E8B443335CD81588F6245BAA3B /* CDBCheckboxView.bundle */;
-			productType = "com.apple.product-type.bundle";
+			name = CDBCheckboxView;
+			productName = CDBCheckboxView;
+			productReference = 17067F1E23F1C425F4F146E98FDFCAFA /* CDBCheckboxView.framework */;
+			productType = "com.apple.product-type.framework";
 		};
 		A16BD6CDDEB192A070468F37FEBB5F2E /* Pods-CDBCheckboxView_Tests */ = {
 			isa = PBXNativeTarget;
@@ -359,31 +361,29 @@
 			buildRules = (
 			);
 			dependencies = (
-				C13963F183448FAA6C41AEE0A0605B0B /* PBXTargetDependency */,
+				0C54CE9E5A7DBE784194A572FFA17288 /* PBXTargetDependency */,
 			);
 			name = "Pods-CDBCheckboxView_Tests";
 			productName = "Pods-CDBCheckboxView_Tests";
 			productReference = 211943427588FF623B4AADB90D58CFC5 /* Pods_CDBCheckboxView_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		EA7EBA6ECCAA5F5C9B958BC58C51E40A /* CDBCheckboxView */ = {
+		EA55CB1B1DE42F02C583CF4835C022A6 /* CDBCheckboxView-CDBCheckboxView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB7658D7423E2544210CB22281F92B80 /* Build configuration list for PBXNativeTarget "CDBCheckboxView" */;
+			buildConfigurationList = D8D7518C6770F8080CAA5E5C3833C293 /* Build configuration list for PBXNativeTarget "CDBCheckboxView-CDBCheckboxView" */;
 			buildPhases = (
-				F382F3198C41A2AA83B0246F49DA129A /* Sources */,
-				048FDB9D00D5AE0A6AC37F1013976C3F /* Frameworks */,
-				9AF0A66E0169F517FE6B37F04F06BECF /* Resources */,
-				2859C8A7A0183A94642E2A7CF001ECFF /* Headers */,
+				76A250A3D777269E19276984C0526557 /* Sources */,
+				AAB37737E33CBB6D2C4B7527E5D83293 /* Frameworks */,
+				E714DF4648389AFC68D39D5EB1B7D43D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				AEF5C062BC45451574D7A70AA6EBCFE5 /* PBXTargetDependency */,
 			);
-			name = CDBCheckboxView;
-			productName = CDBCheckboxView;
-			productReference = 0520EECEBAD6E1A59C3535EF3EFEDD80 /* CDBCheckboxView.framework */;
-			productType = "com.apple.product-type.framework";
+			name = "CDBCheckboxView-CDBCheckboxView";
+			productName = "CDBCheckboxView-CDBCheckboxView";
+			productReference = 97FDFF78DC53342E2DDD274E7FE16891 /* CDBCheckboxView.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 		EC6DB40BFA7BFB4664F3A479CFD81AE4 /* Pods-CDBCheckboxView_Example */ = {
 			isa = PBXNativeTarget;
@@ -396,7 +396,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				48A9E1F6E68D49DE43A5E6DD854DD64A /* PBXTargetDependency */,
+				FFBB2C7BEC2910ADCB19DB7086557269 /* PBXTargetDependency */,
 			);
 			name = "Pods-CDBCheckboxView_Example";
 			productName = "Pods-CDBCheckboxView_Example";
@@ -424,8 +424,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA7EBA6ECCAA5F5C9B958BC58C51E40A /* CDBCheckboxView */,
-				2475BD91A2032E9A9F330A3E9F7A9EFE /* CDBCheckboxView-CDBCheckboxView */,
+				33E5007876F633174F2FAE7055F6579D /* CDBCheckboxView */,
+				EA55CB1B1DE42F02C583CF4835C022A6 /* CDBCheckboxView-CDBCheckboxView */,
 				EC6DB40BFA7BFB4664F3A479CFD81AE4 /* Pods-CDBCheckboxView_Example */,
 				A16BD6CDDEB192A070468F37FEBB5F2E /* Pods-CDBCheckboxView_Tests */,
 			);
@@ -433,32 +433,41 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		563D8F1959AF69D6E095DCE3B00FB163 /* Resources */ = {
+		B1A924C6DD99C39D7F5E8694987CCEFE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				683E8CF628441AFB72517B9755AB22E1 /* CDBCheckboxView.xib in Resources */,
-				8B0D2FEA5F693D5AD41659A8F1B837E5 /* checkbox-dark-off@1x.png in Resources */,
-				8A20C449F977E2F9AEEADC0522610F58 /* checkbox-dark-off@2x.png in Resources */,
-				049A2AA4F977790C1B5E69DB2AB7B054 /* checkbox-dark-off@3x.png in Resources */,
-				AA462B476C5391A3FBF52B44E0E479DB /* checkbox-dark-on@1x.png in Resources */,
-				AEEA8FB2A748F3A2B9A2B5EE1F8FA982 /* checkbox-dark-on@2x.png in Resources */,
-				A3724B61996C3D2369E0EB5D6FF4EDA4 /* checkbox-dark-on@3x.png in Resources */,
+				5165B72A708FDFBF94473A6981881931 /* CDBCheckboxView.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9AF0A66E0169F517FE6B37F04F06BECF /* Resources */ = {
+		E714DF4648389AFC68D39D5EB1B7D43D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8D8C4A3E847AF453E8E7985C7CF4A9A /* CDBCheckboxView.bundle in Resources */,
+				025A7300F53DFF12D4EB2C3CD38815DD /* CDBCheckboxView.xib in Resources */,
+				BB31A6BB90DA5922C62650975ED53612 /* checkbox-dark-off@1x.png in Resources */,
+				FF7AB687CAB6840924AA3FCF9E146177 /* checkbox-dark-off@2x.png in Resources */,
+				E234605E9E53143BF0C535099DD9FA19 /* checkbox-dark-off@3x.png in Resources */,
+				4D152F0CD93CF0F2E74786C6F8E98F92 /* checkbox-dark-on@1x.png in Resources */,
+				D8C6A78E22BBCF7294185D3E0D835FC7 /* checkbox-dark-on@2x.png in Resources */,
+				D98BCB65512CA374F45765F8061C5876 /* checkbox-dark-on@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		078BE40CE929488FC5D7D7BED48DC6FE /* Sources */ = {
+		50EF753AB96B7D16E6C1081CD0E0B564 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C55D97409BC165D418BF76213C780088 /* CDBCheckboxView-dummy.m in Sources */,
+				3D3DBA0F3326481A6B7CAA85FC400610 /* CDBCheckboxView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		76A250A3D777269E19276984C0526557 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -481,35 +490,26 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F382F3198C41A2AA83B0246F49DA129A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				35283E093A5220A70E267D5CAA242B4B /* CDBCheckboxView-dummy.m in Sources */,
-				D6464938E765A73CDEBA520A9506D2F3 /* CDBCheckboxView.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		48A9E1F6E68D49DE43A5E6DD854DD64A /* PBXTargetDependency */ = {
+		0C54CE9E5A7DBE784194A572FFA17288 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = CDBCheckboxView;
-			target = EA7EBA6ECCAA5F5C9B958BC58C51E40A /* CDBCheckboxView */;
-			targetProxy = 75220096403BEE8E1403D418E704F614 /* PBXContainerItemProxy */;
+			target = 33E5007876F633174F2FAE7055F6579D /* CDBCheckboxView */;
+			targetProxy = D94B441FB552EB0AC79BF54C68773E90 /* PBXContainerItemProxy */;
 		};
-		AEF5C062BC45451574D7A70AA6EBCFE5 /* PBXTargetDependency */ = {
+		E04731DA4578B747AC402F1ACC04AD4E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "CDBCheckboxView-CDBCheckboxView";
-			target = 2475BD91A2032E9A9F330A3E9F7A9EFE /* CDBCheckboxView-CDBCheckboxView */;
-			targetProxy = 8E9CE6B4DAC3914A38F59CF088CE04C3 /* PBXContainerItemProxy */;
+			target = EA55CB1B1DE42F02C583CF4835C022A6 /* CDBCheckboxView-CDBCheckboxView */;
+			targetProxy = 47FCC2DD33E80ECADFB48A245AAC12F5 /* PBXContainerItemProxy */;
 		};
-		C13963F183448FAA6C41AEE0A0605B0B /* PBXTargetDependency */ = {
+		FFBB2C7BEC2910ADCB19DB7086557269 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = CDBCheckboxView;
-			target = EA7EBA6ECCAA5F5C9B958BC58C51E40A /* CDBCheckboxView */;
-			targetProxy = CACBA6F72FFBA56B2EC85F8CEE0F83E7 /* PBXContainerItemProxy */;
+			target = 33E5007876F633174F2FAE7055F6579D /* CDBCheckboxView */;
+			targetProxy = 883DD6345AA0EFF7FBCAC1E4BB98BEEA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -545,18 +545,6 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		07CDFFBDEC5960980F14BF506C0FF459 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = CDBCheckboxView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -628,6 +616,33 @@
 			};
 			name = Release;
 		};
+		4C873F35BAF8A05C91A31D8F4B0CC3F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 0.0.1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 0.0.1;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/CDBCheckboxView/CDBCheckboxView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CDBCheckboxView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/CDBCheckboxView/CDBCheckboxView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = CDBCheckboxView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		7AA85B3117FCCCC95C6B342DA4CEFC5C /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3B1978F0055EFC84610C068F168B489E /* Pods-CDBCheckboxView_Example.release.xcconfig */;
@@ -657,9 +672,9 @@
 			};
 			name = Release;
 		};
-		823725C1FECFB0DB2B3BE931F39980FC /* Release */ = {
+		8241C4B386F30723D3249ADF66CB17B6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */;
+			baseConfigurationReference = E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 0.0.1;
@@ -684,9 +699,9 @@
 			};
 			name = Release;
 		};
-		892F43D2A2D9464E9034E334E51AA5DF /* Debug */ = {
+		9E6AEF23A828806EDFB05CF7435B6211 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */;
+			baseConfigurationReference = E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = CDBCheckboxView;
@@ -694,34 +709,7 @@
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Debug;
-		};
-		A94C9417142A5901FD20D1A7D05C15E1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90E6F3F986E34FCFE0A5829346EE6780 /* CDBCheckboxView-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 0.0.1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 0.0.1;
-				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/CDBCheckboxView/CDBCheckboxView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CDBCheckboxView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/CDBCheckboxView/CDBCheckboxView.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = CDBCheckboxView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
+			name = Release;
 		};
 		B37589F62531DBA800719BF926FA4E97 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -749,6 +737,18 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D93E63651FCB3B028117D5AC2E4F6782 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E9B3BF048193BE6CE691C63F2515F5AF /* CDBCheckboxView-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = CDBCheckboxView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
 		};
@@ -793,11 +793,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6E98E222F855366CE2BE221908788394 /* Build configuration list for PBXNativeTarget "CDBCheckboxView-CDBCheckboxView" */ = {
+		8E640A21F0325EE1CFDEFF81AA590BA6 /* Build configuration list for PBXNativeTarget "CDBCheckboxView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				892F43D2A2D9464E9034E334E51AA5DF /* Debug */,
-				07CDFFBDEC5960980F14BF506C0FF459 /* Release */,
+				4C873F35BAF8A05C91A31D8F4B0CC3F4 /* Debug */,
+				8241C4B386F30723D3249ADF66CB17B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -811,11 +811,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB7658D7423E2544210CB22281F92B80 /* Build configuration list for PBXNativeTarget "CDBCheckboxView" */ = {
+		D8D7518C6770F8080CAA5E5C3833C293 /* Build configuration list for PBXNativeTarget "CDBCheckboxView-CDBCheckboxView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A94C9417142A5901FD20D1A7D05C15E1 /* Debug */,
-				823725C1FECFB0DB2B3BE931F39980FC /* Release */,
+				D93E63651FCB3B028117D5AC2E4F6782 /* Debug */,
+				9E6AEF23A828806EDFB05CF7435B6211 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

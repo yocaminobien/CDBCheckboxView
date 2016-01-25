@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "67D90C5264FFE5DA0E3032CF"
+               BlueprintIdentifier = "014E518F10C0A9EE49039419"
                BuildableName = "CDBCheckboxView.framework"
                BlueprintName = "CDBCheckboxView"
                ReferencedContainer = "container:Pods.xcodeproj">
